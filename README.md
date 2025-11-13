@@ -71,7 +71,7 @@ display_img(gradient)
 
 ### Display the input Image
 <img width="932" height="696" alt="image" src="https://github.com/user-attachments/assets/357660de-0433-4b6b-9a8f-39224a0fb16e" />
-
+ 
 
 ### noise img:
 
